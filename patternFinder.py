@@ -81,8 +81,8 @@ def cutStrings(p, i, posChar):
 	return posChar, posCombo
 
 #Now I need to figure out the best way for finding all possible combinations
-# of the substrings in posChar's arrays in order to find identify the ones
-# that match input. This is something I have, but I don't think its the best.
+# of the substrings in posChar's arrays in order to identify the ones that
+# match input. This is something I have, but I don't think its the best.
 
 #I make a table (I know I'm using them a lot, but I just learned about them,
 # and so I just want to use the crap out of them.) called triedThat, which
